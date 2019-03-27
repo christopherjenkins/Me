@@ -1,5 +1,5 @@
 # Welcome!
-It's good to meet you, I'm glad you're here! We're going to build amazing things together, and I believe
+It's good to meet you, I'm glad you're here! We're going to build amazing things together, and I believe we're going to have fun while we do it.
 
 I've been building things for as long as I've been able to hold legos, and I've been working and playing with computers for as long as I can remember. I love empowering individuals and teams to build things that I could only dream about doing alone. Working together affords us an opportunity to create something substantially greater than _just_ the sum of its parts. 
 
