@@ -70,3 +70,8 @@ I care least about what cloud provider we select, where code is hosted, argument
   * My personal hiring matrix
   * Quarterly OKR's, Professional Goals, & Reviews
   * Weekly Staff Meetings
+  
+  
+#### Inspiration
+http://randsinrepose.com/archives/how-to-rands/
+https://docs.google.com/presentation/d/1LGL7fh5zWx8XqHRBra51LcMIHCUluqrdXZ_-XBTXqlg/edit#slide=id.g28d574011f_0_8
