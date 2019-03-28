@@ -1,9 +1,8 @@
 # Engineering Competency Matrix
 
-## Todo: link to public google doc
+[Engineering Matrix](https://docs.google.com/spreadsheets/d/16nEXA_ujak5aIYVnCaDvWwNgP5paDed4NE1PqHtUy_E/edit#gid=0)
 
-| **Competency** | Associate Engineer | Engineer | Senior Engineer | Lead Engineer |
-| --- | --- | --- | --- | --- |
+| **Competency** |
 |**Technical**|
 |Writing Code|
 |Debugging|
