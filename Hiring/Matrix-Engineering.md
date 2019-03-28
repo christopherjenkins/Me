@@ -3,6 +3,7 @@
 [Engineering Matrix](https://docs.google.com/spreadsheets/d/16nEXA_ujak5aIYVnCaDvWwNgP5paDed4NE1PqHtUy_E/edit#gid=0)
 
 | **Competency** |
+|---|
 |**Technical**|
 |Writing Code|
 |Debugging|
