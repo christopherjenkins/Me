@@ -67,7 +67,6 @@ I care least about what cloud provider we select, where code is hosted, argument
 
 ## Shortcomings
 
-* I have trouble being told to do something. If you need something, it's best to just ask me for a favor, I respond much more *favorably*.
 * I have a really short attention span. My favorite part of any project is the beginning.
 * Sometimes it takes more effort to *really* get my attention. If I'm staring at you with a blank face and open mouth, I'm probably thinking about something else. Feel free to snap me out of it.
 
