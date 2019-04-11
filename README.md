@@ -20,7 +20,7 @@ I'm going to trust that you're better at your job than I am at your job. I trust
 
 ### Meetings
 
-You'll join us in weekly staff meetings with your peers. These are not for status updates (we have backlogs and boards for that). We'll focus primarily on a weekly shared agenda document, discuss risks to longer term goals, and ensure we are aligned across all of our engineering teams. Part of this is to have some time to stretch our minds and discuss other issues we are facing.
+You'll join us in weekly staff meetings with your peers. We'll focus primarily on a weekly shared agenda document, discuss risks to longer term goals, and ensure we are aligned across all of our engineering teams. Part of this is to have some whitespace and discuss other issues we are facing.
 
 Additionally, we will have regular 1:1's ( at least monthly ). The goal of 1:1's are similar to the above, but allow for an environment where you and I can be comfortable and feel secure in sharing with each other.
 
