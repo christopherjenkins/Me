@@ -70,18 +70,4 @@ I care least about what cloud provider we select, where code is hosted, argument
 * I have a really short attention span. My favorite part of any project is the beginning.
 * Sometimes it takes more effort to *really* get my attention. If I'm staring at you with a blank face and open mouth, I'm probably thinking about something else. Feel free to snap me out of it.
 
-## TODO
 
-* Complete Readme.md
-* Article Ideas
-  * Running Successful meetings
-  * How I measure performance
-  * How to give me feedback
-  * My personal hiring matrix
-  * Quarterly OKR's, Professional Goals, & Reviews
-  * Weekly Staff Meetings
-
-### Inspiration
-
-http://randsinrepose.com/archives/how-to-rands/
-https://docs.google.com/presentation/d/1LGL7fh5zWx8XqHRBra51LcMIHCUluqrdXZ_-XBTXqlg/edit#slide=id.g28d574011f_0_8
