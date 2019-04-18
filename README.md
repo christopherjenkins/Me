@@ -64,10 +64,3 @@ I believe if you have the right people, and develop and enforce strict process, 
 ### Bikeshedding
 
 I care least about what cloud provider we select, where code is hosted, arguments about which language/framework to use in a greenfield project. That's not to say they aren't critical decisions (they are), but it's more important to move past these decision points quickly to move into delivery.
-
-## Shortcomings
-
-* I have a really short attention span. My favorite part of any project is the beginning.
-* Sometimes it takes more effort to *really* get my attention. If I'm staring at you with a blank face and open mouth, I'm probably thinking about something else. Feel free to snap me out of it.
-
-
