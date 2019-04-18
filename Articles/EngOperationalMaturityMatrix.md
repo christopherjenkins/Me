@@ -29,8 +29,28 @@
 * Do engineers have the ability to push back on product reqs or imposed deadlines?
 * Are engineers given enough whitespace to work out difficult problems and engage in continued learning?
 ### DevOps
+* What does the gitflow look like?
+* Are there automated build & release pipelines for all environments?
+* Disaster Recovery & Backups for DB State?
+* Are there proper permissions setup for production environments?
+* Are all builds also tested?
+* How long would it take you to recover from a cloud provider critical outage requiring you to move everything?
+* Have we identified areas of vendor lock-in? (not bad, but should know)
+* Secret/Key security policies in place?
+* APM, Infrastructure monitoring, on-call hours?
 ### CX
+* Do we have dedicated sales engineers / subject matter experts of our products?
+* Do we have dedicated, tiered support mechanisms?
+* Is there an onboarding team?
+* Do we have customer facing documentation? (if required)
 ### Executive Support
+* Do executives support engineering initiatives? 
+* What is the role of engineering in the organization?
+* Is engineering viewed as a critical component or a necessary evil?
+* Do executives override product goals or engineering timelines regularly?
+* Is there a defined budget for engineering initiatives?
+* Do we understand how engineering contributes to company revenue results?
+* Does engineering have executive representation on par with others in the organization?
 
 ## People
 
@@ -41,6 +61,7 @@
 ### Interview Consistency
 ### Office Environment
 ### Engineering Tools
+### Fun
 
 ## Disciplines
 
