@@ -104,9 +104,31 @@ Below are questions I like to ask to assess the overall maturity of an engineeri
 
 ## Disciplines
 
-### Security
-### Build & Test
-### Architecture
+### Security / Compliance
+* Is there a compliance team? 
+* Who handles overall security in the org?
+* Who oversees security in the products that are released?
+* Are there risk models and breach policies in place?
+* Are there policies for handling legal requests?
+* Do we have access to legal to validate compliance?
+* Are there functional owners for security overall?
+### Build / Test / Release
+* Who is responsible for DevOps in the organization?
+* Are build, release, rollback, incident management guidelines documented and published?
+* Do we regularly run failure scenarios?
+### Architecture & Design
+* What is the overall software architecture design from a high level?
+* Is there an accounting of all dependencies for this architecture?
+* Who is currently responsible for keeping everyone aligned in this architecture?
+* What are the pros/cons of the current design?
+* Is it scalable/sustainable for our future plans?
 ### Support
-### Resilience
+* Do we have dedicated support staff for our customers?
+* What are the published guidelines for response times and incident management?
+* Does support have access to tools to help them solve problems, or are they directly reliant on engineering?
+### Stability
+* Do we have published guidelines for SLA's?
+* Are our customers happy with the current stability of the platform?
+* Are we in a position to handle large changes/fluctations in resource needs?
+* Are we prepared for catastrophic failures?
 
