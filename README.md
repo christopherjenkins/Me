@@ -18,7 +18,7 @@ For less urgent needs, slack is the best way to ask me non-blocking questions, t
 
 I'm going to trust that you're better at your job than I am at your job. I trust you to make good decisions and act professionally. I trust that you'll tell me if you're struggling. If I let you down and don't notice, let me know so I can fix it! You should feel safe approaching me and debating me.
 
-### Meetings
+### Regular Meetings
 
 You'll join us in weekly staff meetings with your peers. We'll focus primarily on a weekly shared agenda document, discuss risks to longer term goals, and ensure we are aligned across all of our engineering teams. Part of this is to have some whitespace and discuss other issues we are facing.
 
