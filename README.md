@@ -61,6 +61,3 @@ Some organizations keep engineers and technical product management away from the
 
 I believe if you have the right people, and develop and enforce strict process, desirable business outcomes happen naturally. My responsibility to an organization is to communicate "when will you be done", and "how much is it going to cost". Organizations that place heavy emphasis on their technology departments are easier to work with in this regard, but constant communication is key.
 
-### Bikeshedding
-
-I care least about what cloud provider we select, where code is hosted, arguments about which language/framework to use in a greenfield project. That's not to say they aren't critical decisions (they are), but it's more important to move past these decision points quickly to move into delivery.
