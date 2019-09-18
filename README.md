@@ -57,7 +57,7 @@ The people who use what we build (end users) are the reason we're coming into wo
 
 Some organizations keep engineers and technical product management away from the users, relying instead on business analysts or business minded product owners.
 
-### Outcome
+### Product
 
 I believe if you have the right people, and develop and enforce strict process, desirable business outcomes happen naturally. My responsibility to an organization is to communicate "when will you be done", and "how much is it going to cost". Organizations that place heavy emphasis on their technology departments are easier to work with in this regard, but constant communication is key.
 
